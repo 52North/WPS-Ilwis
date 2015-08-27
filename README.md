@@ -5,6 +5,13 @@ Midterm blogpost: http://blog.52north.org/2015/07/03/wps-ilwis-bridge-midterm-po
 
 <h2>Ilwis Process Repository</h2>
 <b>Ilwis backend for 52°North WPS.</b>
+<h3>Requirements</h3>
+<h4>Windows</h4>
+<li>2 bit Java 8</li>
+<h4>Linux</h4>
+<li>64 bit Java 8 - tested with <a href="http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html">this.</a> </li>
+<li>Linux: libgdal (1.18.0)</li>
+
 <h3>Set up Ilwis-Objects with Java</h3>
 <li>Download for <a href="https://drive.google.com/open?id=0B0bWmJJYoWIpYS1rdWVkbUJnS3c">Windows</a>.</li>
 <li>Extract it to eg. <i>C:\ilwisobjects</i>.</li>
